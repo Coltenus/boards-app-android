@@ -1,0 +1,27 @@
+*.iml
+.gradle/
+.kotlin/
+
+# Local SDK path (machine-specific)
+local.properties
+
+# IDE files
+.idea/
+
+# OS files
+.DS_Store
+
+# Build outputs
+build/
+app/build/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Generated binaries
+*.apk
+*.aab
+*.ap_
+
+# Logs
+*.log
